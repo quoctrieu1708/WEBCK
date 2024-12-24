@@ -24,7 +24,7 @@
         <th scope="row"><?= $row['MaSP'] ?></th>
         <td><?= $row['TenSP'] ?></td>
         <td><?= $row['DonGia'] ?> VNĐ</td>
-        <td><?= $row['SoLuong'] ?></td>
+        <td><?= $row['Kho'] ?></td>
         <td><?= $row['TrangThai'] ?></td>
         <td>
           <a href="../index.php?act=detail&id=<?= $row['MaSP'] ?>" type="button" class="btn btn-success" target="_blank">Xem</a>
