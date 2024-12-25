@@ -11,9 +11,11 @@ require_once("banner.php")
                 <div class="section-title text-center">
                     <div class="product-tab nav nav-tabs">
                         <ul>
-                            <li class="active"><a data-toggle="tab" href="#arrival">Sách <span>/</span></a></li>
-                            <li><a data-toggle="tab" href="#popular">Dụng cụ học tập <span>/</span></a></li>
-                            <li><a data-toggle="tab" href="#best">sản phẩm điện tử</a></li>
+                            <li class="active"><a data-toggle="tab" href="#arrival">Thực phẩm & Đồ uống <span>/</span></a></li>
+                            <li><a data-toggle="tab" href="#popular">Thời trang & Phụ kiện <span>/</span></a></li>
+                            <li><a data-toggle="tab" href="#best">Điện tử & Công nghệ <span>/</span></a></li>
+                            <li><a data-toggle="tab" href="#best">Đồ gia dụng & Nội thất <span>/</span></a></li>
+                            <li><a data-toggle="tab" href="#best">Sách & Văn phòng phẩm <span>/</span></a></li>
                         </ul>
                     </div>
                 </div>

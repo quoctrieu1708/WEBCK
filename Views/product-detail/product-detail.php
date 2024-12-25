@@ -99,15 +99,7 @@
                                             </li>
                                             <li>
                                                 <span>Nhà Xuất Bản</span>
-                                                <div><?= $data['NhaXuatBan'] ?></div>
-                                            </li>
-                                            <li>
-                                                <span>Tác Giả</span>
-                                                <div><?= $data['TacGia'] ?></div>
-                                            </li>
-                                            <li>
-                                                <span>Hình Thức Bìa</span>
-                                                <div><?= $data['HinhThucBia'] ?></div>
+                                                <div><?= $data['XuatXu'] ?></div>
                                             </li>
                                         </ul>
                                     </div>

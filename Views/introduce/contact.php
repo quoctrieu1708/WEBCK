@@ -24,7 +24,7 @@
 				<div class="googleMap-info">
 					<div id="googleMap"></div>
 					<div class="map-info">
-						<p><strong>BOOK STORE</strong></p>
+						<p><strong></strong></p>
 					</div>
 				</div>
 			</div>

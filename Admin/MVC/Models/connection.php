@@ -7,8 +7,8 @@
             //Thong so ket noi CSDL
             $severname ="localhost"; 
             $username ="root";
-            $password =""; 
-            $db_name ="webck";
+            $password ="170805"; 
+            $db_name ="doan";
 
             //Tao ket noi CSDL
             $this->conn = new mysqli($severname,$username,$password,$db_name);

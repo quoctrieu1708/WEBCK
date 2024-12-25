@@ -33,7 +33,7 @@
         </div>
         <div class="form-group">
             <label for="">Số lượng</label>
-            <input type="text" class="form-control" id="" placeholder="" name="SoLuong" value="<?=$data['SoLuong']?>">
+            <input type="text" class="form-control" id="" placeholder="" name="Kho" value="<?=$data['Kho']?>">
         </div>
         <div class="form-group">
             <label for="">Hình ảnh 1</label>
@@ -63,17 +63,17 @@
             <input type="text" class="form-control" id="" placeholder="" name="ManHinh" value="<?=$data['NhaCungCap']?>">
         </div>
         <div class="form-group">
-            <label for="">Nhà Xuất Bản</label>
-            <input type="text" class="form-control" id="" placeholder="" name="HDH" value="<?=$data['NhaXuatBan']?>">
+            <label for="">Xuất Xứ</label>
+            <input type="text" class="form-control" id="" placeholder="" name="HDH" value="<?=$data['XuatXu']?>">
         </div>
-        <div class="form-group">
+        <!-- <div class="form-group">
             <label for="">Tác Giả</label>
             <input type="text" class="form-control" id="" placeholder="" name="CamTruoc" value="<?=$data['TacGia']?>">
         </div>
         <div class="form-group">
             <label for="">Hình Thức Bìa</label>
             <input type="text" class="form-control" id="" placeholder="" name="CamSau" value="<?=$data['HinhThucBia']?>">
-        </div>
+        </div> -->
         <!-- <div class="form-group">
             <label for="">CPU</label>
             <input type="text" class="form-control" id="" placeholder="" name="CPU" value="<?=$data['CPU']?>">

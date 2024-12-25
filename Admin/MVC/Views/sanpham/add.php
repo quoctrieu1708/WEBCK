@@ -31,7 +31,7 @@
     </div>
     <div class="form-group">
       <label for="">Số lượng</label>
-      <input type="text" class="form-control" id="" placeholder="" name="SoLuong">
+      <input type="text" class="form-control" id="" placeholder="" name="Kho">
     </div>
     <div class="form-group">
       <label for="">Hình ảnh 1 </label>
@@ -58,17 +58,17 @@
       <input type="text" class="form-control" id="" placeholder="" name="NhaCungCap">
     </div>
     <div class="form-group">
-      <label for="">Nhà Xuất Bản</label>
-      <input type="text" class="form-control" id="" placeholder="" name="NhaXuatBan">
+      <label for="">Xuất Xứ</label>
+      <input type="text" class="form-control" id="" placeholder="" name="XuatXu">
     </div>
-    <div class="form-group">
+    <!-- <div class="form-group">
       <label for="">Tác Giả</label>
       <input type="text" class="form-control" id="" placeholder="" name="TacGia">
     </div>
     <div class="form-group">
       <label for="">Hình Thức Bìa</label>
       <input type="text" class="form-control" id="" placeholder="" name="HinhThucBia">
-    </div>
+    </div> -->
     <!-- <div class="form-group">
       <label for="">CPU</label>
       <input type="text" class="form-control" id="" placeholder="" name="CPU">

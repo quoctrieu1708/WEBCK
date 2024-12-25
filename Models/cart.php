@@ -41,7 +41,7 @@ class Cart extends Model
 
     function chitietdanhmuc($id)
     {
-        $query = "SELECT * FROM ChiTietDanhMuc WHERE MaDM = $id";
+        $query = "SELECT * FROM DanhMuc WHERE MaDM = $id";
         $result = $this->conn->query($query);
     
         if (!$result) {

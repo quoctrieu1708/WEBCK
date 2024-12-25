@@ -6,7 +6,7 @@
                 <img src="public/<?=$value['HinhAnh']?>" alt="main slider" title="#htmlcaption"/>
                 <?php } ?>
             </div>
-            <div id="htmlcaption" class="nivo-html-caption slider-caption">
+            <!-- <div id="htmlcaption" class="nivo-html-caption slider-caption">
                 <div class="container">
                     <div class="slider-left slider-right">
                         <div class="slide-text animated zoomInUp">
@@ -19,7 +19,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>							
     </div>
 </div>

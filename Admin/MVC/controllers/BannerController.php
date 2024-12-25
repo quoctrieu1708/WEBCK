@@ -77,7 +77,7 @@ class BannerController
             $HinhAnh =  "img/banners/" . basename($_FILES["HinhAnh"]["name"]);
         }
 		$data = array(
-			'Id' => $_POST['id'],
+			'id' => $_POST['id'],
 			'HinhAnh' =>  $HinhAnh,
 		);
 		foreach ($data as $key => $value) {
