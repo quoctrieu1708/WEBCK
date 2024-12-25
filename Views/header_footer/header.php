@@ -29,7 +29,7 @@
             <!-- Logo -->
             <div class="col-sm-2">
                 <div class="logo">
-                    <h1 style="background: linear-gradient(90deg, #00bcd4, #004d40); border-radius:15px"><a href="?act=home" style="color:#fff; transition: color 0.3s ease;">BOOK <br> STORE</a></h1>
+                    <h1 style="background: linear-gradient(90deg, #00bcd4, #004d40); border-radius:15px"><a href="?act=home" style="color:#fff; transition: color 0.3s ease;">STORE</a></h1>
                 </div>
             </div>
             <!-- Main Menu -->
